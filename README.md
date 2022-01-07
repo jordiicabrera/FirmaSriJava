@@ -8,7 +8,7 @@ Al compilar el código se genera un archivo FirmaElectronica.jar que permite fir
 
 java -jar FirmaElectronica.jar /path/sample/certificate.p12 cErTiFicAtEPaSsWoRd /path/sample/unsignedFile.xml /path/sample outputFile.xml
 
-Desde la venta de comandos CMD en Windows o Terminal en Linux se procede a ejecutar el Jar que requiere 4 parametros, los cuales se digitan despues del archivo jar separados por un espacio en blanco entre ellos <br />
+Desde la ventana de comandos CMD en Windows o Terminal en Linux se procede a ejecutar el Jar que requiere 4 parametros, los cuales se digitan despues del archivo jar separados por un espacio en blanco entre ellos <br />
 
 A continuacion se detalla lo que debe tener cada parametro<br />
 
